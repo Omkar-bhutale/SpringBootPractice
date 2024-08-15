@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "emp.info",
+      "type": "com.omkar.comp.Employee",
+      "sourceType": "com.omkar.comp.Employee"
+    }
+  ],
+  "properties": [
+    {
+      "name": "emp.info.company",
+      "type": "com.omkar.comp.Company",
+      "sourceType": "com.omkar.comp.Employee"
+    },
+    {
+      "name": "emp.info.id",
+      "type": "java.lang.Long",
+      "sourceType": "com.omkar.comp.Employee"
+    },
+    {
+      "name": "emp.info.id-details",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.omkar.comp.Employee"
+    },
+    {
+      "name": "emp.info.name",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Employee"
+    },
+    {
+      "name": "emp.info.phone-numbers",
+      "type": "java.util.Set<java.lang.Long>",
+      "sourceType": "com.omkar.comp.Employee"
+    },
+    {
+      "name": "emp.info.skills",
+      "type": "java.lang.String[]",
+      "sourceType": "com.omkar.comp.Employee"
+    },
+    {
+      "name": "emp.info.team-members",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.omkar.comp.Employee"
+    }
+  ],
+  "hints": []
+}

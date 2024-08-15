@@ -1,0 +1,26 @@
+emp:
+  info:
+    skills:
+      - java
+      - python
+      - c#
+      - Spring
+    team-members:
+      - ram
+      - shyam
+      - kiran
+      - kirtu
+    phone-numbers:
+      - 111111111
+      - 2222222222
+      - 3333333333
+      - 444444444444
+    id-details:
+      adharNo: 1234567
+      panNo: 234567
+      voterId: 23456
+    company:
+      title: scalar
+      size: 11
+      location: deglur
+
