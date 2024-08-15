@@ -1,0 +1,87 @@
+{
+  "groups": [
+    {
+      "name": "my.company2",
+      "type": "com.omkar.comp.Company2",
+      "sourceType": "com.omkar.comp.Company2"
+    },
+    {
+      "name": "my.company3",
+      "type": "com.omkar.comp.Company3",
+      "sourceType": "com.omkar.comp.Company3"
+    },
+    {
+      "name": "org.company",
+      "type": "com.omkar.comp.Company",
+      "sourceType": "com.omkar.comp.Company"
+    },
+    {
+      "name": "org.company1",
+      "type": "com.omkar.comp.Company1",
+      "sourceType": "com.omkar.comp.Company1"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.company2.company-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.omkar.comp.Company2"
+    },
+    {
+      "name": "my.company2.location",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Company2"
+    },
+    {
+      "name": "my.company2.name",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Company2"
+    },
+    {
+      "name": "my.company3.company-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.omkar.comp.Company3"
+    },
+    {
+      "name": "my.company3.location",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Company3"
+    },
+    {
+      "name": "my.company3.name",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Company3"
+    },
+    {
+      "name": "org.company.location",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Company"
+    },
+    {
+      "name": "org.company.name",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Company"
+    },
+    {
+      "name": "org.company.size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.omkar.comp.Company"
+    },
+    {
+      "name": "org.company1.company-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.omkar.comp.Company1"
+    },
+    {
+      "name": "org.company1.location",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Company1"
+    },
+    {
+      "name": "org.company1.name",
+      "type": "java.lang.String",
+      "sourceType": "com.omkar.comp.Company1"
+    }
+  ],
+  "hints": []
+}
